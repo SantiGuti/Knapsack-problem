@@ -1,7 +1,7 @@
 # Knapsack Problem
 
-Diferentes soluciones para el problema de la mochila, tambien conocido como Knapsack problem.
+Different solutions for the backpack problem, also known as Knapsack problem.
 
-La primer solución es un solver goloso que a partir de un comparador define una solución
+The first solution is a greedy algorithm that defines a solution from a comparator
 
-La segunda solución se basa en un algoritmo genetico
+The second solution is based on a genetic algorithm
